@@ -1,2 +1,1 @@
-# 桑梓平台微服务框架# SendsPlatform
-# SendsPlatfrom
+# 华侨大学桑梓微助手部分服务
